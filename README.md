@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h2>Hi!👋, I'm Danielly</h2>
 
-<p>I'm currently intern of 2Day IT Solutions where i develop using Laravel Framework and Vue.js almost of my time. <br/> And  I'm Software Engineering Student at college <strong><a href="#">UNIPAMPA (Federal University of Pampa)</a></strong>.</p>
+<p>I'm currently an intern at 2Day IT Solutions where I work with Laravel Framework and Vue.js. <br/> And I'm a Software Engineering Student at <strong><a href="#">UNIPAMPA (Federal University of Pampa)</a></strong>, where I'm currently learning Java. </p> 
 
 
 <img src="https://img.shields.io/static/v1?label=&message=Linkedin&style=for-the-badge&logo=linkedin&color=0e76a8&link=http://left&link=https://www.linkedin.com/in/danielly-neves-437538239/" />
