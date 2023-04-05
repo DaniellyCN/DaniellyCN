@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **DaniellyCN/DaniellyCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +18,9 @@ Here are some ideas to get you started:
 
 <h2>Hi!👋, I'm Danielly</h2>
 
-<p>Im currently intern of 2Day IT Solutions where i develop using Laravel Framework and Vue.js almost of my time, and  im Software Engineering Student at college <strong><a href="#">UNIPAMPA (Federal University of Pampa)</a></strong></p>
+<p>I'm currently intern of 2Day IT Solutions where i develop using Laravel Framework and Vue.js almost of my time. <br/> And  I'm Software Engineering Student at college <strong><a href="#">UNIPAMPA (Federal University of Pampa)</a></strong>.</p>
+
+
+<img src="https://img.shields.io/static/v1?label=&message=Linkedin&style=for-the-badge&logo=linkedin&color=0e76a8&link=http://left&link=https://www.linkedin.com/in/danielly-neves-437538239/" />
+
+
