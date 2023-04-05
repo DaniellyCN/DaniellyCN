@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h2>Hi!👋, I'm Danielly</h2>
+
+<p>Im currently intern of 2Day IT Solutions where i develop using Laravel Framework and Vue.js almost of my time, and  im Software Engineering Student at college <strong><a href="#">UNIPAMPA (Federal University of Pampa)</a></strong></p>
