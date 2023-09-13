@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h2>Hi!👋, I'm Danielly</h2>
 
-<p>I'm a Software Engineering Student at <strong><a href="#">UNIPAMPA (Federal University of Pampa)</a></strong>, where I'm currently learning Java.<br/>
+<p>I'm a Software Engineering Student at <strong><a href="#">UNIPAMPA (Federal University of Pampa)</a></strong>, where I'm currently learning Java spring and node.js.<br/>
 I'm also an intern at 2Day IT Solutions where I work with Laravel Framework and Vue.js. </p> 
 
 
